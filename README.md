@@ -277,6 +277,5 @@ MIT License
 
 ## Author
 
- Jay-Gold111  
- Web3 Developer | Security-focused Engineer  
+ Jay-Gould7   
  Contact: gold.xxtxx@gmail.com
