@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+contracts/cache/
+contracts/artifacts/
+contracts/ignition/deployments/

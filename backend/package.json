@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "private": true,
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "migrate": "node src/migrate.js",
+    "rebuild:sbt": "node src/rebuildSbtCount.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.15.0",
+    "express": "^4.19.2",
+    "mysql2": "^3.11.5",
+    "node-cron": "^3.0.3"
+  }
+}
